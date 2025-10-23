@@ -2,8 +2,7 @@
 
 This project demonstrates a conversational AI chatbot deployed on **Google Cloud Run**, integrated with **Vertex AI** for intelligent responses. Below are screenshots of the setup and the running chatbot:
 
-### Vertex AI Setup
-![Vertex AI Screenshot](images/vertex-ai.png)
+
 
 ### Cloud Run Chatbot Demo
 ![Cloud Run Chatbot](images/chatbot-demo.png)
