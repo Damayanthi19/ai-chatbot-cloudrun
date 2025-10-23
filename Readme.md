@@ -1,19 +1,17 @@
-# AI Chatbot on Cloud Run
+## AI Chatbot Project on Cloud Run
 
-Built and deployed by **Damayanthi Ravinuthala**
+This project demonstrates a conversational AI chatbot deployed on **Google Cloud Run**, integrated with **Vertex AI** for intelligent responses. Below are screenshots of the setup and the running chatbot:
 
-This project is a Flask-based chatbot powered by Google Vertex AI, deployed on Cloud Run.
+### Vertex AI Setup
+![Vertex AI Screenshot](images/vertex-ai.png)
+
+### Cloud Run Chatbot Demo
+![Cloud Run Chatbot](images/chatbot-demo.png)
 
 ---
 
-## 🧠 Architecture
-
-The following diagram illustrates how user messages flow through the system:
-
-![Architecture Diagram](architecture.png)
-## 🗒️ Project Description
-
-This project is a conversational AI chatbot powered by Google Cloud’s Vertex AI language models.  
-It is built with Flask and containerized using Docker, then deployed on Google Cloud Run for scalable, serverless hosting.  
-Users can interact with the chatbot through a simple web interface, and the responses are generated using Vertex AI’s text-generation APIs.
-![Cloud Run Chatbot](images/chatbot-demo.png)
+### Project Highlights
+- Built using Google Cloud Run and Vertex AI
+- Real-time AI chatbot interaction
+- Fully containerized for cloud deployment
+- Easy integration with web frontends
